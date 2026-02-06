@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.red-tag,.red-tag-better{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightcoral;
+}
+.red-tag-better{
+    font-size: 24px;
+}
+#blue{
+    color: blue;
+    font-size: 36px;
+}
+#green{
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
